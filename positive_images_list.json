@@ -1,0 +1,1752 @@
+[
+  {
+    "split": "train",
+    "filename": "05971.jpg",
+    "path": "dataset/images/train/05971.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "11558_1.jpg",
+    "path": "dataset/images/train/11558_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "16300_1.jpg",
+    "path": "dataset/images/train/16300_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "05086.jpg",
+    "path": "dataset/images/train/05086.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "19236_1.jpg",
+    "path": "dataset/images/train/19236_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "03621.jpg",
+    "path": "dataset/images/train/03621.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "07858.jpg",
+    "path": "dataset/images/train/07858.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "15329_1.jpg",
+    "path": "dataset/images/train/15329_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "15044_1.jpg",
+    "path": "dataset/images/train/15044_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "02375.jpg",
+    "path": "dataset/images/train/02375.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "08566.jpg",
+    "path": "dataset/images/train/08566.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "12647_1.jpg",
+    "path": "dataset/images/train/12647_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "10571_1.jpg",
+    "path": "dataset/images/train/10571_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "08460.jpg",
+    "path": "dataset/images/train/08460.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "15732_1.jpg",
+    "path": "dataset/images/train/15732_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "08961.jpg",
+    "path": "dataset/images/train/08961.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "12260_1.jpg",
+    "path": "dataset/images/train/12260_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "16216_1.jpg",
+    "path": "dataset/images/train/16216_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "10597_1.jpg",
+    "path": "dataset/images/train/10597_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "07182.jpg",
+    "path": "dataset/images/train/07182.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "07995.jpg",
+    "path": "dataset/images/train/07995.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "11216_1.jpg",
+    "path": "dataset/images/train/11216_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "00994.jpg",
+    "path": "dataset/images/train/00994.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "14112_1.jpg",
+    "path": "dataset/images/train/14112_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "19988.jpg",
+    "path": "dataset/images/train/19988.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "00957.jpg",
+    "path": "dataset/images/train/00957.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "12487_1.jpg",
+    "path": "dataset/images/train/12487_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "13318_1.jpg",
+    "path": "dataset/images/train/13318_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "08004.jpg",
+    "path": "dataset/images/train/08004.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "17279_1.jpg",
+    "path": "dataset/images/train/17279_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "07975.jpg",
+    "path": "dataset/images/train/07975.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "10653_1.jpg",
+    "path": "dataset/images/train/10653_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "06484.jpg",
+    "path": "dataset/images/train/06484.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "17410_1.jpg",
+    "path": "dataset/images/train/17410_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "02584.jpg",
+    "path": "dataset/images/train/02584.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "16251_1.jpg",
+    "path": "dataset/images/train/16251_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "01603.jpg",
+    "path": "dataset/images/train/01603.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "00152.jpg",
+    "path": "dataset/images/train/00152.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "16680_1.jpg",
+    "path": "dataset/images/train/16680_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "12919_1.jpg",
+    "path": "dataset/images/train/12919_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "12478_1.jpg",
+    "path": "dataset/images/train/12478_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "01986.jpg",
+    "path": "dataset/images/train/01986.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "07428.jpg",
+    "path": "dataset/images/train/07428.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "05643.jpg",
+    "path": "dataset/images/train/05643.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "05418.jpg",
+    "path": "dataset/images/train/05418.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "13063_1.jpg",
+    "path": "dataset/images/train/13063_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "01447.jpg",
+    "path": "dataset/images/train/01447.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "04317.jpg",
+    "path": "dataset/images/train/04317.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "08628.jpg",
+    "path": "dataset/images/train/08628.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "19703.jpg",
+    "path": "dataset/images/train/19703.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "10929_1.jpg",
+    "path": "dataset/images/train/10929_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "02878.jpg",
+    "path": "dataset/images/train/02878.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "07882.jpg",
+    "path": "dataset/images/train/07882.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "13312_1.jpg",
+    "path": "dataset/images/train/13312_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "06930.jpg",
+    "path": "dataset/images/train/06930.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "06901.jpg",
+    "path": "dataset/images/train/06901.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "01128.jpg",
+    "path": "dataset/images/train/01128.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "00967.jpg",
+    "path": "dataset/images/train/00967.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "18253_1.jpg",
+    "path": "dataset/images/train/18253_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "04236.jpg",
+    "path": "dataset/images/train/04236.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "18975_1.jpg",
+    "path": "dataset/images/train/18975_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "19373_1.jpg",
+    "path": "dataset/images/train/19373_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "15868_1.jpg",
+    "path": "dataset/images/train/15868_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "11621_1.jpg",
+    "path": "dataset/images/train/11621_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "18520_1.jpg",
+    "path": "dataset/images/train/18520_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "16683_1.jpg",
+    "path": "dataset/images/train/16683_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "05764.jpg",
+    "path": "dataset/images/train/05764.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "14731_1.jpg",
+    "path": "dataset/images/train/14731_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "17106_1.jpg",
+    "path": "dataset/images/train/17106_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "14962_1.jpg",
+    "path": "dataset/images/train/14962_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "02664.jpg",
+    "path": "dataset/images/train/02664.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "02355.jpg",
+    "path": "dataset/images/train/02355.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "14373_1.jpg",
+    "path": "dataset/images/train/14373_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "10824_1.jpg",
+    "path": "dataset/images/train/10824_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "07535.jpg",
+    "path": "dataset/images/train/07535.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "17625_1.jpg",
+    "path": "dataset/images/train/17625_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "08119.jpg",
+    "path": "dataset/images/train/08119.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "18911_1.jpg",
+    "path": "dataset/images/train/18911_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "12211_1.jpg",
+    "path": "dataset/images/train/12211_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "00149.jpg",
+    "path": "dataset/images/train/00149.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "12005_1.jpg",
+    "path": "dataset/images/train/12005_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "18417_1.jpg",
+    "path": "dataset/images/train/18417_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "05701.jpg",
+    "path": "dataset/images/train/05701.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "14315_1.jpg",
+    "path": "dataset/images/train/14315_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "11432_1.jpg",
+    "path": "dataset/images/train/11432_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "08569.jpg",
+    "path": "dataset/images/train/08569.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "16724_1.jpg",
+    "path": "dataset/images/train/16724_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "14252_1.jpg",
+    "path": "dataset/images/train/14252_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "18328_1.jpg",
+    "path": "dataset/images/train/18328_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "14779_1.jpg",
+    "path": "dataset/images/train/14779_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "19656.jpg",
+    "path": "dataset/images/train/19656.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "06968.jpg",
+    "path": "dataset/images/train/06968.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "15776_1.jpg",
+    "path": "dataset/images/train/15776_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "00326.jpg",
+    "path": "dataset/images/train/00326.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "09828.jpg",
+    "path": "dataset/images/train/09828.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "05428.jpg",
+    "path": "dataset/images/train/05428.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "05808.jpg",
+    "path": "dataset/images/train/05808.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "05975.jpg",
+    "path": "dataset/images/train/05975.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "18370_1.jpg",
+    "path": "dataset/images/train/18370_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "09003.jpg",
+    "path": "dataset/images/train/09003.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "12974_1.jpg",
+    "path": "dataset/images/train/12974_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "18137_1.jpg",
+    "path": "dataset/images/train/18137_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "11018_1.jpg",
+    "path": "dataset/images/train/11018_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "13977_1.jpg",
+    "path": "dataset/images/train/13977_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "09810.jpg",
+    "path": "dataset/images/train/09810.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "03158.jpg",
+    "path": "dataset/images/train/03158.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "04143.jpg",
+    "path": "dataset/images/train/04143.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "04082.jpg",
+    "path": "dataset/images/train/04082.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "10476_1.jpg",
+    "path": "dataset/images/train/10476_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "18699_1.jpg",
+    "path": "dataset/images/train/18699_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "18774_1.jpg",
+    "path": "dataset/images/train/18774_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "05946.jpg",
+    "path": "dataset/images/train/05946.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "08710.jpg",
+    "path": "dataset/images/train/08710.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "07781.jpg",
+    "path": "dataset/images/train/07781.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "09628.jpg",
+    "path": "dataset/images/train/09628.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "15412_1.jpg",
+    "path": "dataset/images/train/15412_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "19444.jpg",
+    "path": "dataset/images/train/19444.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "10372_1.jpg",
+    "path": "dataset/images/train/10372_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "11874_1.jpg",
+    "path": "dataset/images/train/11874_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "08933.jpg",
+    "path": "dataset/images/train/08933.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "19379.jpg",
+    "path": "dataset/images/train/19379.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "14298_1.jpg",
+    "path": "dataset/images/train/14298_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "19338_1.jpg",
+    "path": "dataset/images/train/19338_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "17288_1.jpg",
+    "path": "dataset/images/train/17288_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "18795_1.jpg",
+    "path": "dataset/images/train/18795_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "08505.jpg",
+    "path": "dataset/images/train/08505.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "09166.jpg",
+    "path": "dataset/images/train/09166.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "03088.jpg",
+    "path": "dataset/images/train/03088.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "19851.jpg",
+    "path": "dataset/images/train/19851.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "06795.jpg",
+    "path": "dataset/images/train/06795.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "06324.jpg",
+    "path": "dataset/images/train/06324.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "13874_1.jpg",
+    "path": "dataset/images/train/13874_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "05047.jpg",
+    "path": "dataset/images/train/05047.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "06946.jpg",
+    "path": "dataset/images/train/06946.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "07943.jpg",
+    "path": "dataset/images/train/07943.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "00710.jpg",
+    "path": "dataset/images/train/00710.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "08752.jpg",
+    "path": "dataset/images/train/08752.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "07026.jpg",
+    "path": "dataset/images/train/07026.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "07796.jpg",
+    "path": "dataset/images/train/07796.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "18281_1.jpg",
+    "path": "dataset/images/train/18281_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "17585_1.jpg",
+    "path": "dataset/images/train/17585_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "17067_1.jpg",
+    "path": "dataset/images/train/17067_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "16620_1.jpg",
+    "path": "dataset/images/train/16620_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "07420.jpg",
+    "path": "dataset/images/train/07420.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "18613_1.jpg",
+    "path": "dataset/images/train/18613_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "18898_1.jpg",
+    "path": "dataset/images/train/18898_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "09930.jpg",
+    "path": "dataset/images/train/09930.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "17865_1.jpg",
+    "path": "dataset/images/train/17865_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "12445_1.jpg",
+    "path": "dataset/images/train/12445_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "09684.jpg",
+    "path": "dataset/images/train/09684.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "16691_1.jpg",
+    "path": "dataset/images/train/16691_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "00186.jpg",
+    "path": "dataset/images/train/00186.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "13814_1.jpg",
+    "path": "dataset/images/train/13814_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "09357.jpg",
+    "path": "dataset/images/train/09357.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "12289_1.jpg",
+    "path": "dataset/images/train/12289_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "00782.jpg",
+    "path": "dataset/images/train/00782.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "03128.jpg",
+    "path": "dataset/images/train/03128.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "15893_1.jpg",
+    "path": "dataset/images/train/15893_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "00948.jpg",
+    "path": "dataset/images/train/00948.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "12157_1.jpg",
+    "path": "dataset/images/train/12157_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "11159_1.jpg",
+    "path": "dataset/images/train/11159_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "04119.jpg",
+    "path": "dataset/images/train/04119.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "14179_1.jpg",
+    "path": "dataset/images/train/14179_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "07538.jpg",
+    "path": "dataset/images/train/07538.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "10167_1.jpg",
+    "path": "dataset/images/train/10167_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "11049_1.jpg",
+    "path": "dataset/images/train/11049_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "08036.jpg",
+    "path": "dataset/images/train/08036.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "04407.jpg",
+    "path": "dataset/images/train/04407.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "14728_1.jpg",
+    "path": "dataset/images/train/14728_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "13692_1.jpg",
+    "path": "dataset/images/train/13692_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "15425_1.jpg",
+    "path": "dataset/images/train/15425_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "00093.jpg",
+    "path": "dataset/images/train/00093.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "10847_1.jpg",
+    "path": "dataset/images/train/10847_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "15431_1.jpg",
+    "path": "dataset/images/train/15431_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "06647.jpg",
+    "path": "dataset/images/train/06647.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "19305_1.jpg",
+    "path": "dataset/images/train/19305_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "17414_1.jpg",
+    "path": "dataset/images/train/17414_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "09007.jpg",
+    "path": "dataset/images/train/09007.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "05192.jpg",
+    "path": "dataset/images/train/05192.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "04770.jpg",
+    "path": "dataset/images/train/04770.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "16337_1.jpg",
+    "path": "dataset/images/train/16337_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "12768_1.jpg",
+    "path": "dataset/images/train/12768_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "01418.jpg",
+    "path": "dataset/images/train/01418.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "05984.jpg",
+    "path": "dataset/images/train/05984.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "09999.jpg",
+    "path": "dataset/images/train/09999.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "14321_1.jpg",
+    "path": "dataset/images/train/14321_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "15509_1.jpg",
+    "path": "dataset/images/train/15509_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "15270_1.jpg",
+    "path": "dataset/images/train/15270_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "00291.jpg",
+    "path": "dataset/images/train/00291.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "07197.jpg",
+    "path": "dataset/images/train/07197.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "11610_1.jpg",
+    "path": "dataset/images/train/11610_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "11627_1.jpg",
+    "path": "dataset/images/train/11627_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "07698.jpg",
+    "path": "dataset/images/train/07698.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "11117_1.jpg",
+    "path": "dataset/images/train/11117_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "09614.jpg",
+    "path": "dataset/images/train/09614.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "12770_1.jpg",
+    "path": "dataset/images/train/12770_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "05213.jpg",
+    "path": "dataset/images/train/05213.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "17606_1.jpg",
+    "path": "dataset/images/train/17606_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "05517.jpg",
+    "path": "dataset/images/train/05517.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "02972.jpg",
+    "path": "dataset/images/train/02972.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "16091_1.jpg",
+    "path": "dataset/images/train/16091_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "19980.jpg",
+    "path": "dataset/images/train/19980.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "18872_1.jpg",
+    "path": "dataset/images/train/18872_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "11791_1.jpg",
+    "path": "dataset/images/train/11791_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "10462_1.jpg",
+    "path": "dataset/images/train/10462_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "12387_1.jpg",
+    "path": "dataset/images/train/12387_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "19992.jpg",
+    "path": "dataset/images/train/19992.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "16572_1.jpg",
+    "path": "dataset/images/train/16572_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "11725_1.jpg",
+    "path": "dataset/images/train/11725_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "12536_1.jpg",
+    "path": "dataset/images/train/12536_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "10387_1.jpg",
+    "path": "dataset/images/train/10387_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "18583_1.jpg",
+    "path": "dataset/images/train/18583_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "17463_1.jpg",
+    "path": "dataset/images/train/17463_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "03561.jpg",
+    "path": "dataset/images/train/03561.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "14243_1.jpg",
+    "path": "dataset/images/train/14243_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "14075_1.jpg",
+    "path": "dataset/images/train/14075_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "00161.jpg",
+    "path": "dataset/images/train/00161.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "03161.jpg",
+    "path": "dataset/images/train/03161.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "11907_1.jpg",
+    "path": "dataset/images/train/11907_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "15135_1.jpg",
+    "path": "dataset/images/train/15135_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "02350.jpg",
+    "path": "dataset/images/train/02350.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "12906_1.jpg",
+    "path": "dataset/images/train/12906_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "10759_1.jpg",
+    "path": "dataset/images/train/10759_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "14871_1.jpg",
+    "path": "dataset/images/train/14871_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "13413_1.jpg",
+    "path": "dataset/images/train/13413_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "13444_1.jpg",
+    "path": "dataset/images/train/13444_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "12724_1.jpg",
+    "path": "dataset/images/train/12724_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "00143.jpg",
+    "path": "dataset/images/train/00143.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "07543.jpg",
+    "path": "dataset/images/train/07543.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "05548.jpg",
+    "path": "dataset/images/train/05548.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "07214.jpg",
+    "path": "dataset/images/train/07214.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "02045.jpg",
+    "path": "dataset/images/train/02045.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "02925.jpg",
+    "path": "dataset/images/train/02925.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "19144_1.jpg",
+    "path": "dataset/images/train/19144_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "11007_1.jpg",
+    "path": "dataset/images/train/11007_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "11992_1.jpg",
+    "path": "dataset/images/train/11992_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "06839.jpg",
+    "path": "dataset/images/train/06839.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "16293_1.jpg",
+    "path": "dataset/images/train/16293_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "07086.jpg",
+    "path": "dataset/images/train/07086.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "16835_1.jpg",
+    "path": "dataset/images/train/16835_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "16377_1.jpg",
+    "path": "dataset/images/train/16377_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "14711_1.jpg",
+    "path": "dataset/images/train/14711_1.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "08481.jpg",
+    "path": "dataset/images/train/08481.jpg"
+  },
+  {
+    "split": "train",
+    "filename": "00701.jpg",
+    "path": "dataset/images/train/00701.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "01166.jpg",
+    "path": "dataset/images/val/01166.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "09775.jpg",
+    "path": "dataset/images/val/09775.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "18143_1.jpg",
+    "path": "dataset/images/val/18143_1.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "01501.jpg",
+    "path": "dataset/images/val/01501.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "03189.jpg",
+    "path": "dataset/images/val/03189.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "08355.jpg",
+    "path": "dataset/images/val/08355.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "17130_1.jpg",
+    "path": "dataset/images/val/17130_1.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "02979.jpg",
+    "path": "dataset/images/val/02979.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "08117.jpg",
+    "path": "dataset/images/val/08117.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "14333_1.jpg",
+    "path": "dataset/images/val/14333_1.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "14081_1.jpg",
+    "path": "dataset/images/val/14081_1.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "05376.jpg",
+    "path": "dataset/images/val/05376.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "08698.jpg",
+    "path": "dataset/images/val/08698.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "16933_1.jpg",
+    "path": "dataset/images/val/16933_1.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "03335.jpg",
+    "path": "dataset/images/val/03335.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "15256_1.jpg",
+    "path": "dataset/images/val/15256_1.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "10527_1.jpg",
+    "path": "dataset/images/val/10527_1.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "11623_1.jpg",
+    "path": "dataset/images/val/11623_1.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "08264.jpg",
+    "path": "dataset/images/val/08264.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "16113_1.jpg",
+    "path": "dataset/images/val/16113_1.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "17496_1.jpg",
+    "path": "dataset/images/val/17496_1.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "19649.jpg",
+    "path": "dataset/images/val/19649.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "00459.jpg",
+    "path": "dataset/images/val/00459.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "14062_1.jpg",
+    "path": "dataset/images/val/14062_1.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "05859.jpg",
+    "path": "dataset/images/val/05859.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "18470_1.jpg",
+    "path": "dataset/images/val/18470_1.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "09612.jpg",
+    "path": "dataset/images/val/09612.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "15262_1.jpg",
+    "path": "dataset/images/val/15262_1.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "00769.jpg",
+    "path": "dataset/images/val/00769.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "11951_1.jpg",
+    "path": "dataset/images/val/11951_1.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "17862_1.jpg",
+    "path": "dataset/images/val/17862_1.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "14985_1.jpg",
+    "path": "dataset/images/val/14985_1.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "01256.jpg",
+    "path": "dataset/images/val/01256.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "05202.jpg",
+    "path": "dataset/images/val/05202.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "17560_1.jpg",
+    "path": "dataset/images/val/17560_1.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "05256.jpg",
+    "path": "dataset/images/val/05256.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "14135_1.jpg",
+    "path": "dataset/images/val/14135_1.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "10406_1.jpg",
+    "path": "dataset/images/val/10406_1.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "19000_1.jpg",
+    "path": "dataset/images/val/19000_1.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "17264_1.jpg",
+    "path": "dataset/images/val/17264_1.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "04161.jpg",
+    "path": "dataset/images/val/04161.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "03209.jpg",
+    "path": "dataset/images/val/03209.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "08639.jpg",
+    "path": "dataset/images/val/08639.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "17661_1.jpg",
+    "path": "dataset/images/val/17661_1.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "06264.jpg",
+    "path": "dataset/images/val/06264.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "11680_1.jpg",
+    "path": "dataset/images/val/11680_1.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "11406_1.jpg",
+    "path": "dataset/images/val/11406_1.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "19576.jpg",
+    "path": "dataset/images/val/19576.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "10942_1.jpg",
+    "path": "dataset/images/val/10942_1.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "02867.jpg",
+    "path": "dataset/images/val/02867.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "09229.jpg",
+    "path": "dataset/images/val/09229.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "05166.jpg",
+    "path": "dataset/images/val/05166.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "05629.jpg",
+    "path": "dataset/images/val/05629.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "10981_1.jpg",
+    "path": "dataset/images/val/10981_1.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "00062.jpg",
+    "path": "dataset/images/val/00062.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "05121.jpg",
+    "path": "dataset/images/val/05121.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "18041_1.jpg",
+    "path": "dataset/images/val/18041_1.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "08914.jpg",
+    "path": "dataset/images/val/08914.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "10901_1.jpg",
+    "path": "dataset/images/val/10901_1.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "12844_1.jpg",
+    "path": "dataset/images/val/12844_1.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "06898.jpg",
+    "path": "dataset/images/val/06898.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "01998.jpg",
+    "path": "dataset/images/val/01998.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "16477_1.jpg",
+    "path": "dataset/images/val/16477_1.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "19515.jpg",
+    "path": "dataset/images/val/19515.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "08623.jpg",
+    "path": "dataset/images/val/08623.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "04723.jpg",
+    "path": "dataset/images/val/04723.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "09186.jpg",
+    "path": "dataset/images/val/09186.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "00269.jpg",
+    "path": "dataset/images/val/00269.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "04690.jpg",
+    "path": "dataset/images/val/04690.jpg"
+  },
+  {
+    "split": "val",
+    "filename": "15867_1.jpg",
+    "path": "dataset/images/val/15867_1.jpg"
+  },
+  {
+    "split": "test",
+    "filename": "11039_1.jpg",
+    "path": "dataset/images/test/11039_1.jpg"
+  },
+  {
+    "split": "test",
+    "filename": "13078_1.jpg",
+    "path": "dataset/images/test/13078_1.jpg"
+  },
+  {
+    "split": "test",
+    "filename": "06972.jpg",
+    "path": "dataset/images/test/06972.jpg"
+  },
+  {
+    "split": "test",
+    "filename": "00020.jpg",
+    "path": "dataset/images/test/00020.jpg"
+  },
+  {
+    "split": "test",
+    "filename": "09921.jpg",
+    "path": "dataset/images/test/09921.jpg"
+  },
+  {
+    "split": "test",
+    "filename": "12470_1.jpg",
+    "path": "dataset/images/test/12470_1.jpg"
+  },
+  {
+    "split": "test",
+    "filename": "16723_1.jpg",
+    "path": "dataset/images/test/16723_1.jpg"
+  },
+  {
+    "split": "test",
+    "filename": "12325_1.jpg",
+    "path": "dataset/images/test/12325_1.jpg"
+  },
+  {
+    "split": "test",
+    "filename": "11414_1.jpg",
+    "path": "dataset/images/test/11414_1.jpg"
+  },
+  {
+    "split": "test",
+    "filename": "13293_1.jpg",
+    "path": "dataset/images/test/13293_1.jpg"
+  },
+  {
+    "split": "test",
+    "filename": "13167_1.jpg",
+    "path": "dataset/images/test/13167_1.jpg"
+  },
+  {
+    "split": "test",
+    "filename": "17259_1.jpg",
+    "path": "dataset/images/test/17259_1.jpg"
+  },
+  {
+    "split": "test",
+    "filename": "05538.jpg",
+    "path": "dataset/images/test/05538.jpg"
+  },
+  {
+    "split": "test",
+    "filename": "07289.jpg",
+    "path": "dataset/images/test/07289.jpg"
+  },
+  {
+    "split": "test",
+    "filename": "05243.jpg",
+    "path": "dataset/images/test/05243.jpg"
+  },
+  {
+    "split": "test",
+    "filename": "02578.jpg",
+    "path": "dataset/images/test/02578.jpg"
+  },
+  {
+    "split": "test",
+    "filename": "18194_1.jpg",
+    "path": "dataset/images/test/18194_1.jpg"
+  },
+  {
+    "split": "test",
+    "filename": "00914.jpg",
+    "path": "dataset/images/test/00914.jpg"
+  },
+  {
+    "split": "test",
+    "filename": "14704_1.jpg",
+    "path": "dataset/images/test/14704_1.jpg"
+  },
+  {
+    "split": "test",
+    "filename": "18152_1.jpg",
+    "path": "dataset/images/test/18152_1.jpg"
+  },
+  {
+    "split": "test",
+    "filename": "15600_1.jpg",
+    "path": "dataset/images/test/15600_1.jpg"
+  },
+  {
+    "split": "test",
+    "filename": "09535.jpg",
+    "path": "dataset/images/test/09535.jpg"
+  },
+  {
+    "split": "test",
+    "filename": "13179_1.jpg",
+    "path": "dataset/images/test/13179_1.jpg"
+  },
+  {
+    "split": "test",
+    "filename": "01528.jpg",
+    "path": "dataset/images/test/01528.jpg"
+  },
+  {
+    "split": "test",
+    "filename": "06527.jpg",
+    "path": "dataset/images/test/06527.jpg"
+  },
+  {
+    "split": "test",
+    "filename": "09049.jpg",
+    "path": "dataset/images/test/09049.jpg"
+  },
+  {
+    "split": "test",
+    "filename": "05180.jpg",
+    "path": "dataset/images/test/05180.jpg"
+  },
+  {
+    "split": "test",
+    "filename": "12017_1.jpg",
+    "path": "dataset/images/test/12017_1.jpg"
+  },
+  {
+    "split": "test",
+    "filename": "14109_1.jpg",
+    "path": "dataset/images/test/14109_1.jpg"
+  },
+  {
+    "split": "test",
+    "filename": "19262_1.jpg",
+    "path": "dataset/images/test/19262_1.jpg"
+  },
+  {
+    "split": "test",
+    "filename": "08314.jpg",
+    "path": "dataset/images/test/08314.jpg"
+  },
+  {
+    "split": "test",
+    "filename": "03770.jpg",
+    "path": "dataset/images/test/03770.jpg"
+  },
+  {
+    "split": "test",
+    "filename": "09240.jpg",
+    "path": "dataset/images/test/09240.jpg"
+  },
+  {
+    "split": "test",
+    "filename": "10259_1.jpg",
+    "path": "dataset/images/test/10259_1.jpg"
+  },
+  {
+    "split": "test",
+    "filename": "03448.jpg",
+    "path": "dataset/images/test/03448.jpg"
+  },
+  {
+    "split": "test",
+    "filename": "13945_1.jpg",
+    "path": "dataset/images/test/13945_1.jpg"
+  }
+]
