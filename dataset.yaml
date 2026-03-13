@@ -1,9 +1,9 @@
-# YOLO dataset config for crack detection
-path: dataset
+# YOLO dataset configuration for crack detection
+path: /Users/shayannaghashpour/Desktop/--/pipe_crack_ai/dataset
 train: images/train
 val: images/val
 test: images/test
 
-# Update class names for your project
+# Class names
 names:
   0: crack
