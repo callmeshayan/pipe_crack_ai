@@ -1,0 +1,9 @@
+# YOLO dataset config for crack detection
+path: dataset
+train: images/train
+val: images/val
+test: images/test
+
+# Update class names for your project
+names:
+  0: crack

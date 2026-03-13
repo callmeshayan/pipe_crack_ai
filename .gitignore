@@ -1,0 +1,49 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# YOLO training outputs
+runs/
+*.pt
+*.pth
+*.onnx
+*.torchscript
+
+# Dataset (uncomment if you want to exclude large datasets)
+# dataset/images/
+# dataset/labels/
+
+# Extracted frames (can be regenerated)
+frames/*.jpg
+frames/*.png
+
+# Videos (usually large, store separately)
+videos/*.mp4
+videos/*.avi
+videos/*.mov
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
