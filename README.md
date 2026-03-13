@@ -39,7 +39,34 @@ Expected output includes:
 - GPU model name
 - CUDA version
 
-## 4) Start training
+## 4) Prepare your dataset
+
+The project includes a dataset preparation script that organizes images into YOLO format.
+
+**Setup your raw data:**
+
+1. Create folders in the project root:
+   - `cracked/` - put all cracked pipe images here
+   - `uncracked/` - put all uncracked pipe images here
+   - `cracked_labels/` - put YOLO format `.txt` labels for cracked images here
+
+2. Label format (YOLO):
+   ```
+   class_id x_center y_center width height
+   ```
+   Example: `0 0.5 0.5 0.3 0.4`
+
+3. Run the preparation script:
+   - `python scripts/prepare_dataset.py`
+
+The script will:
+- Rename images with consistent naming (`crack_0001.jpg`, `clean_0001.jpg`)
+- Create empty labels for uncracked images
+- Split data into train (70%), val (20%), test (10%)
+- Organize into the `dataset/` structure
+- Update `dataset.yaml` with correct paths
+
+## 5) Start training
 
 Run:
 
@@ -58,7 +85,7 @@ Outputs are saved to:
 
 - `runs/detect/train/`
 
-## 5) Run prediction on a video
+## 6) Run prediction on a video
 
 After training, use best weights:
 
@@ -66,7 +93,7 @@ After training, use best weights:
 
 Predictions are typically saved under `runs/detect/predict/`.
 
-## 6) Export for Raspberry Pi deployment
+## 7) Export for Raspberry Pi deployment
 
 When model quality is acceptable, export to formats useful for edge deployment:
 
