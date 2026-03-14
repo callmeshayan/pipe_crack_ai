@@ -14,6 +14,7 @@ __pycache__/
 # YOLO training outputs
 runs/
 *.pt
+!models/*.pt
 *.pth
 *.onnx
 *.torchscript
