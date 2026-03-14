@@ -1,5 +1,5 @@
 # YOLO dataset configuration for crack detection
-path: /Users/shayannaghashpour/Desktop/--/pipe_crack_ai/dataset
+path: dataset
 train: images/train
 val: images/val
 test: images/test
